@@ -328,7 +328,9 @@ p {
 .img {
   justify-content: flex-end;
 }
-
+.button {
+  border-radius: 30%;
+}
 .bottom-content {
   display: flex;
   margin: 0 2% 20px;
